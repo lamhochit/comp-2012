@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/factory.h
+materials.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/materials.h
+mask.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/mask.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/main.cpp
+iostream
+-
+factory.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/factory.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/mask.h
+materials.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/materials.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab2/materials.h
+

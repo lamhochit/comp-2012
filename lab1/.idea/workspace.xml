@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1b3ccf2-ced2-4309-97e2-b716fc8cbb64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yqc9KvlGFAECJnp1M9qyjEgpFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile.Makefile">
+    <configuration name="Makefile (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (3)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (4)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (5)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.Makefile" />
+        <item itemvalue="Makefile.Makefile (5)" />
+        <item itemvalue="Makefile.Makefile (4)" />
+        <item itemvalue="Makefile.Makefile (3)" />
+        <item itemvalue="Makefile.Makefile (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b3ccf2-ced2-4309-97e2-b716fc8cbb64" name="Default Changelist" comment="" />
+      <created>1583673413011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583673413011</updated>
+      <workItem from="1583673415239" duration="97000" />
+      <workItem from="1583673534667" duration="2880000" />
+      <workItem from="1584006098869" duration="1223000" />
+      <workItem from="1584328251026" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1672" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583675120855">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1672" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1583675120855" />
+    <state x="1632" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584006794571">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state x="1663" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1583676241853" />
+    <state x="1632" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2512.1057@0.23.2512.1057" timestamp="1584006794571" />
+    <state width="1228" height="271" key="GridCell.Tab.0.bottom" timestamp="1584007388972">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state width="1228" height="286" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1583676447002" />
+    <state width="1228" height="271" key="GridCell.Tab.0.bottom/0.23.2512.1057@0.23.2512.1057" timestamp="1584007388972" />
+    <state width="1228" height="271" key="GridCell.Tab.0.center" timestamp="1584007388971">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state width="1228" height="286" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1583676447001" />
+    <state width="1228" height="271" key="GridCell.Tab.0.center/0.23.2512.1057@0.23.2512.1057" timestamp="1584007388971" />
+    <state width="1228" height="271" key="GridCell.Tab.0.left" timestamp="1584007388970">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state width="1228" height="286" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1583676447000" />
+    <state width="1228" height="271" key="GridCell.Tab.0.left/0.23.2512.1057@0.23.2512.1057" timestamp="1584007388970" />
+    <state width="1228" height="271" key="GridCell.Tab.0.right" timestamp="1584007388972">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state width="1228" height="286" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1583676447002" />
+    <state width="1228" height="271" key="GridCell.Tab.0.right/0.23.2512.1057@0.23.2512.1057" timestamp="1584007388972" />
+    <state x="859" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584328251115">
+      <screen x="0" y="23" width="1872" height="1057" />
+    </state>
+    <state x="1153" y="384" key="com.intellij.ide.util.TipDialog/0.23.2512.1057@0.23.2512.1057" timestamp="1584006101695" />
+    <state x="859" y="384" key="com.intellij.ide.util.TipDialog/264.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584328251115" />
+  </component>
+</project>

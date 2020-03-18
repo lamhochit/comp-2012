@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab2" targetName="lab2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a327a910-6b56-4db1-b581-6ea9738b69f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZCOQQd3vH6PQ8TF4IwJjvoTNna" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Makefile.Makefile (3)">
+    <configuration name="lab2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab2" TARGET_NAME="lab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab2" RUN_TARGET_NAME="lab2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (3)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (5)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.lab2" />
+      <item itemvalue="Makefile.Makefile (5)" />
+      <item itemvalue="Makefile.Makefile" />
+      <item itemvalue="Makefile.Makefile (1)" />
+      <item itemvalue="Makefile.Makefile (2)" />
+      <item itemvalue="Makefile.Makefile (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.Makefile (3)" />
+        <item itemvalue="Makefile.Makefile (2)" />
+        <item itemvalue="Makefile.Makefile (1)" />
+        <item itemvalue="Makefile.Makefile" />
+        <item itemvalue="Makefile.Makefile (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a327a910-6b56-4db1-b581-6ea9738b69f2" name="Default Changelist" comment="" />
+      <created>1584339594280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584339594280</updated>
+      <workItem from="1584339603155" duration="6903000" />
+      <workItem from="1584358312729" duration="2266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1228" height="505" key="GridCell.Tab.0.bottom" timestamp="1584360588402">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1228" height="505" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588402" />
+    <state width="2470" height="481" key="GridCell.Tab.0.bottom/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716158" />
+    <state width="1830" height="481" key="GridCell.Tab.0.bottom/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674020" />
+    <state width="1228" height="505" key="GridCell.Tab.0.center" timestamp="1584360588401">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1228" height="505" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588401" />
+    <state width="2470" height="481" key="GridCell.Tab.0.center/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716156" />
+    <state width="1830" height="481" key="GridCell.Tab.0.center/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674019" />
+    <state width="1228" height="505" key="GridCell.Tab.0.left" timestamp="1584360588400">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1228" height="505" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588400" />
+    <state width="2470" height="481" key="GridCell.Tab.0.left/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716156" />
+    <state width="1830" height="481" key="GridCell.Tab.0.left/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674018" />
+    <state width="1228" height="505" key="GridCell.Tab.0.right" timestamp="1584360588402">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1228" height="505" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588402" />
+    <state width="2470" height="481" key="GridCell.Tab.0.right/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716157" />
+    <state width="1830" height="481" key="GridCell.Tab.0.right/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674019" />
+    <state x="904" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584358316338">
+      <screen x="0" y="23" width="2512" height="1057" />
+    </state>
+    <state x="904" y="384" key="com.intellij.ide.util.TipDialog/0.23.2512.1057@0.23.2512.1057" timestamp="1584358316338" />
+    <state x="674" y="384" key="com.intellij.ide.util.TipDialog/264.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584339605069" />
+  </component>
+</project>

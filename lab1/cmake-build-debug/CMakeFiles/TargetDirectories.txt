@@ -1,0 +1,2 @@
+/Users/lamhochit/Documents/COMP2012_Lab/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lamhochit/Documents/COMP2012_Lab/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
