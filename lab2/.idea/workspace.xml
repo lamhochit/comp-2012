@@ -11,7 +11,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a327a910-6b56-4db1-b581-6ea9738b69f2" name="Default Changelist" comment="" />
+    <list default="true" id="a327a910-6b56-4db1-b581-6ea9738b69f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Coronavirus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Coronavirus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Doctor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Doctor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Norovirus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Norovirus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient_with_coronavirus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient_with_coronavirus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient_with_norovirus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Patient_with_norovirus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Person.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Person.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Virus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Virus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +40,11 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZCOQQd3vH6PQ8TF4IwJjvoTNna" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,11 +52,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Makefile.Makefile (3)">
+  <component name="RunManager" selected="Makefile.Makefile">
     <configuration name="lab2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab2" TARGET_NAME="lab2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab2" RUN_TARGET_NAME="lab2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -70,19 +95,19 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.lab2" />
-      <item itemvalue="Makefile.Makefile (5)" />
-      <item itemvalue="Makefile.Makefile" />
       <item itemvalue="Makefile.Makefile (1)" />
       <item itemvalue="Makefile.Makefile (2)" />
       <item itemvalue="Makefile.Makefile (3)" />
+      <item itemvalue="Makefile.Makefile (5)" />
+      <item itemvalue="Makefile.Makefile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Makefile.Makefile" />
         <item itemvalue="Makefile.Makefile (3)" />
         <item itemvalue="Makefile.Makefile (2)" />
         <item itemvalue="Makefile.Makefile (1)" />
         <item itemvalue="Makefile.Makefile" />
-        <item itemvalue="Makefile.Makefile (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +123,10 @@
       <updated>1584339594280</updated>
       <workItem from="1584339603155" duration="6903000" />
       <workItem from="1584358312729" duration="2266000" />
+      <workItem from="1584532767503" duration="1837000" />
+      <workItem from="1584596400194" duration="93000" />
+      <workItem from="1584611849256" duration="1794000" />
+      <workItem from="1584973307374" duration="97000" />
     </task>
     <servers />
   </component>
@@ -105,34 +134,43 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1228" height="505" key="GridCell.Tab.0.bottom" timestamp="1584360588402">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state x="439" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584539466876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="439" y="250" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-304.2560.1080/0.0.1440.900@0.0.1440.900" timestamp="1584539466876" />
+    <state width="1878" height="505" key="GridCell.Tab.0.bottom" timestamp="1584596492983">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1228" height="505" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588402" />
     <state width="2470" height="481" key="GridCell.Tab.0.bottom/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716158" />
+    <state width="1878" height="505" key="GridCell.Tab.0.bottom/259.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584596492983" />
     <state width="1830" height="481" key="GridCell.Tab.0.bottom/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674020" />
-    <state width="1228" height="505" key="GridCell.Tab.0.center" timestamp="1584360588401">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1878" height="505" key="GridCell.Tab.0.center" timestamp="1584596492981">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1228" height="505" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588401" />
     <state width="2470" height="481" key="GridCell.Tab.0.center/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716156" />
+    <state width="1878" height="505" key="GridCell.Tab.0.center/259.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584596492981" />
     <state width="1830" height="481" key="GridCell.Tab.0.center/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674019" />
-    <state width="1228" height="505" key="GridCell.Tab.0.left" timestamp="1584360588400">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1878" height="505" key="GridCell.Tab.0.left" timestamp="1584596492980">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1228" height="505" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588400" />
     <state width="2470" height="481" key="GridCell.Tab.0.left/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716156" />
+    <state width="1878" height="505" key="GridCell.Tab.0.left/259.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584596492980" />
     <state width="1830" height="481" key="GridCell.Tab.0.left/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674018" />
-    <state width="1228" height="505" key="GridCell.Tab.0.right" timestamp="1584360588402">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state width="1878" height="505" key="GridCell.Tab.0.right" timestamp="1584596492982">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1228" height="505" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1584360588402" />
     <state width="2470" height="481" key="GridCell.Tab.0.right/0.23.2512.1057@0.23.2512.1057" timestamp="1584358716157" />
+    <state width="1878" height="505" key="GridCell.Tab.0.right/259.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584596492982" />
     <state width="1830" height="481" key="GridCell.Tab.0.right/259.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584352674019" />
-    <state x="904" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584358316338">
-      <screen x="0" y="23" width="2512" height="1057" />
+    <state x="691" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1584596444373">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="904" y="384" key="com.intellij.ide.util.TipDialog/0.23.2512.1057@0.23.2512.1057" timestamp="1584358316338" />
+    <state x="691" y="369" key="com.intellij.ide.util.TipDialog/259.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584596444373" />
     <state x="674" y="384" key="com.intellij.ide.util.TipDialog/264.1103.1440.877/0.23.1872.1057@0.23.1872.1057" timestamp="1584339605069" />
   </component>
 </project>
