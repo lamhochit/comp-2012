@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/gold_card.cpp
+gold_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/gold_card.h
+silver_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/silver_card.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/gold_card.h
+silver_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/silver_card.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/regular_card.h
+iostream
+-
+string
+-
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/silver_card.h
+string
+-
+iostream
+-
+cmath
+-
+regular_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/regular_card.h
+
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/sliver_card.cpp
+regular_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/regular_card.h
+silver_card.h
+/Users/lamhochit/Documents/COMP2012_Lab/lab4/silver_card.h
+
