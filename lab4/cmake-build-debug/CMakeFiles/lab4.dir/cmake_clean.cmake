@@ -1,11 +1,13 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lab4.dir/beverage_store.cpp.o"
-  "CMakeFiles/lab4.dir/gold_card.cpp.o"
-  "CMakeFiles/lab4.dir/main.cpp.o"
-  "CMakeFiles/lab4.dir/regular_card.cpp.o"
-  "CMakeFiles/lab4.dir/sliver_card.cpp.o"
-  "CMakeFiles/lab4.dir/vip_lounge.cpp.o"
-  "lab4"
+  "CMakeFiles/lab4.dir/beverage_store.cpp.obj"
+  "CMakeFiles/lab4.dir/gold_card.cpp.obj"
+  "CMakeFiles/lab4.dir/main.cpp.obj"
+  "CMakeFiles/lab4.dir/regular_card.cpp.obj"
+  "CMakeFiles/lab4.dir/sliver_card.cpp.obj"
+  "CMakeFiles/lab4.dir/vip_lounge.cpp.obj"
+  "lab4.exe"
+  "lab4.exe.manifest"
+  "lab4.lib"
   "lab4.pdb"
 )
 
