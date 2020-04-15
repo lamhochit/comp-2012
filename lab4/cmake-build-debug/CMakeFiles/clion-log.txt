@@ -1,4 +1,4 @@
-C:\Users\lamhochit\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\lamhochit\CLionProjects\comp-2012\lab4
+C:\Users\lamhochit\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\lamhochit\CLionProjects\comp-2012\lab4
 -- The C compiler identification is MSVC 19.25.28612.0
 -- The CXX compiler identification is MSVC 19.25.28612.0
 -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.25.28610/bin/Hostx86/x86/cl.exe

@@ -4,134 +4,136 @@
 	<Project>
 		<Option title="lab3"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
+		<Option compiler="msvc8"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug"/>
+				<Option working_dir="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug"/>
+				<Option working_dir="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab3">
-				<Option output="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/lab3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug"/>
+				<Option output="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug/lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 lab3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab3/fast">
-				<Option output="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/lab3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug"/>
+				<Option output="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug/lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab3/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lamhochit/Documents/COMP2012_Lab/lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 lab3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\lamhochit\CLionProjects\comp-2012\lab3\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Coronavirus.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Coronavirus.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Coronavirus.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Coronavirus.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Doctor.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Doctor.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Doctor.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Doctor.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Norovirus.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Norovirus.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Norovirus.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Norovirus.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient_with_coronavirus.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient_with_coronavirus.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient_with_coronavirus.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient_with_coronavirus.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient_with_norovirus.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient_with_norovirus.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Patient_with_norovirus.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Patient_with_norovirus.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Person.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Person.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Person.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Person.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Virus.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Virus.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/Virus.h">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/Virus.h">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/main.cpp">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/main.cpp">
 			<Option target="lab3"/>
 		</Unit>
-		<Unit filename="/Users/lamhochit/Documents/COMP2012_Lab/lab3/CMakeLists.txt">
+		<Unit filename="C:/Users/lamhochit/CLionProjects/comp-2012/lab3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
