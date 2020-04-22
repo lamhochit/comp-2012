@@ -1,0 +1,3 @@
+C:/Users/lamhochit/CLionProjects/comp-2012/asm2/out/build/x64-Debug/CMakeFiles/asm2.dir
+C:/Users/lamhochit/CLionProjects/comp-2012/asm2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lamhochit/CLionProjects/comp-2012/asm2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

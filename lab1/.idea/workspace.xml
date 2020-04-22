@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -9,7 +27,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b3ccf2-ced2-4309-97e2-b716fc8cbb64" name="Default Changelist" comment="" />
+    <list default="true" id="a1b3ccf2-ced2-4309-97e2-b716fc8cbb64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../asm2/.idea/asm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,24 +67,38 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Yqc9KvlGFAECJnp1M9qyjEgpFX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Makefile.Makefile">
+  <component name="RunManager" selected="Makefile.Makefile (5)">
+    <configuration name="Makefile (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
     <configuration name="Makefile (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
         <envs />
@@ -67,19 +123,20 @@
       </makefile>
       <method v="2" />
     </configuration>
-    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
-      <makefile filename="$PROJECT_DIR$/Makefile" target="" workingDirectory="" arguments="">
-        <envs />
-      </makefile>
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Makefile.Makefile (1)" />
+      <item itemvalue="Makefile.Makefile (2)" />
+      <item itemvalue="Makefile.Makefile (3)" />
+      <item itemvalue="Makefile.Makefile (4)" />
+      <item itemvalue="Makefile.Makefile (5)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Makefile.Makefile" />
         <item itemvalue="Makefile.Makefile (5)" />
         <item itemvalue="Makefile.Makefile (4)" />
         <item itemvalue="Makefile.Makefile (3)" />
         <item itemvalue="Makefile.Makefile (2)" />
+        <item itemvalue="Makefile.Makefile (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -97,22 +154,45 @@
       <workItem from="1583673534667" duration="2880000" />
       <workItem from="1584006098869" duration="1223000" />
       <workItem from="1584328251026" duration="3000" />
+      <workItem from="1587300944686" duration="403000" />
+      <workItem from="1587301384363" duration="669000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1672" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583675120855">
-      <screen x="0" y="0" width="2560" height="1080" />
+    <state x="1624" y="253" key="#Makefile_(2)" timestamp="1587301586021">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
+    <state x="1624" y="253" key="#Makefile_(2)/0.0.2560.1040@0.0.2560.1040" timestamp="1587301586021" />
+    <state x="1672" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587301051220">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1672" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1587301051220" />
     <state x="1672" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1583675120855" />
     <state x="1632" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584006794571">
       <screen x="0" y="23" width="2512" height="1057" />
     </state>
     <state x="1663" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1583676241853" />
     <state x="1632" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2512.1057@0.23.2512.1057" timestamp="1584006794571" />
+    <state x="1700" y="278" key="FileChooserDialogImpl" timestamp="1587301504015">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1587301504015" />
     <state width="1228" height="271" key="GridCell.Tab.0.bottom" timestamp="1584007388972">
       <screen x="0" y="23" width="2512" height="1057" />
     </state>
@@ -133,6 +213,10 @@
     </state>
     <state width="1228" height="286" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1583676447002" />
     <state width="1228" height="271" key="GridCell.Tab.0.right/0.23.2512.1057@0.23.2512.1057" timestamp="1584007388972" />
+    <state x="1421" y="168" key="SettingsEditor" timestamp="1587302052275">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1421" y="168" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1587302052275" />
     <state x="859" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584328251115">
       <screen x="0" y="23" width="1872" height="1057" />
     </state>

@@ -1,4 +1,4 @@
-"/Users/lamhochit/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/lamhochit/Documents/COMP2012_Lab/lab1
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\lamhochit\CLionProjects\comp-2012\lab1
 CMake Warning (dev) in CMakeLists.txt:
   No project() command is present.  The top-level CMakeLists.txt file must
   contain a literal, direct call to the project() command.  Add a line of
@@ -14,4 +14,4 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/lamhochit/Documents/COMP2012_Lab/lab1/cmake-build-debug
+-- Build files have been written to: C:/Users/lamhochit/CLionProjects/comp-2012/lab1/cmake-build-debug
