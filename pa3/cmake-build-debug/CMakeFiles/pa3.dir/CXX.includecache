@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/infectionAnalyzer.cpp
+infectionAnalyzer.h
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/infectionAnalyzer.h
+fstream
+-
+queue
+-
+algorithm
+-
+
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/infectionAnalyzer.h
+tree.h
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/tree.h
+string
+-
+iostream
+-
+vector
+-
+queue
+-
+
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/node.h
+
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/tree.h
+node.h
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/node.h
+iostream
+-
+string
+-
+treeImplementation.h
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/treeImplementation.h
+
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/treeImplementation.h
+tree.h
+C:/Users/lamhochit/CLionProjects/comp-2012/pa3/tree.h
+
