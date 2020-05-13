@@ -121,8 +121,39 @@ int InfectionAnalyzer::getInfectionGeneration(string name) const {
     return -1;
 }
 
+bool cmp (pair<string, int> i, pair<string, int> j) {
+    if (i.second > j.second) {return true;}
+    if (i.second == j.second) {
+        if (i.first < j.first) {return true;} else {return false;}
+    }
+    if (i.second < i.second) {return false;}
+}
+
 const vector<pair<string, int>> &InfectionAnalyzer::getInfectionPowerVector() {
-    vector<pair<string, int>> vec;
-    return vec;
+    vector<pair<string, int>>* infectionPowerVector = new vector<pair<string, int>>;
+    infectionPowerVector->clear();
+
+    for (int i = 0; i < trees.size(); i++) {
+        int tree_index = i;
+        Tree<string> *mytree = trees[tree_index];
+        queue<Tree<string> *> qq;
+
+        qq.push(mytree);
+        for (int layer = 0; !qq.empty(); layer++) {
+            for (int i = 0; i < qq.size(); i++) {
+                int cCount = qq.front()->root->childCount;
+                infectionPowerVector->push_back(make_pair(qq.front()->root->data, qq.front()->getDescendantCount()));
+                for (int c = 0; c < cCount; c++) {
+                    qq.push(&qq.front()->root->children[c]);
+                }
+                qq.pop();
+            }
+        }
+    }
+
+// Sort the thing
+    sort(infectionPowerVector->begin(), infectionPowerVector->end(), cmp);
+
+    return *infectionPowerVector;
 }
 
